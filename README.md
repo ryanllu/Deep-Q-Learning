@@ -1,1 +1,1 @@
-#### Applying Deep Q Learning to solve OpenAI's Reinforcement Learning Environment.
+#### Applying Deep Q Learning Model to solve OpenAI's Reinforcement Learning Environment.
